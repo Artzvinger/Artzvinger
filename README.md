@@ -18,11 +18,11 @@
 
 ## 📌 Ключевые проекты
 
-*   **[Платформа тестирования знаний]** [Ссылка на GitHub репозиторий](https://github.com/Artzvinger/language-test-app)
+*   **[Платформа тестирования знаний]** [Ссылка на GitHub репозиторий](https://github.com/Artzvinger/language-test-app) [👉 Открыть демо](https://language-test-app-seven.vercel.app/)
     *   Fullstack-приложение для автоматизации языкового тестирования с системой защиты от списывания, админ-панелью для преподавателей и автопроверкой результатов. Стек: Vue 3, Node.js, SQLite.
 *   **[Инвестиционный дашборд]** [Ссылка на GitHub репозиторий](https://github.com/Artzvinger/Investment-Dashboard)
     *   SPA для отслеживания инвестиционного портфеля с интеграцией MOEX API, автообновлением цен и расчётом доходности. В разработке. Стек: React, Node.js, Express, React Query.
-*   **[Типографический калькулятор]** [Ссылка на GitHub репозиторий](https://github.com/Artzvinger/printing-price-calculator)
+*   **[Типографический калькулятор]** [Ссылка на GitHub репозиторий](https://github.com/Artzvinger/printing-price-calculator) [👉 Открыть демо](https://printing-price-calculator-iota.vercel.app/)
     *   Веб-интерфейс для мгновенного расчёта стоимости печатной продукции. Интегрирован с Google Sheets, автоматизирует ценообразование. Стек: React, HTML5, CSS3, Google Apps Script.
 ---
 
